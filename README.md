@@ -55,5 +55,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-For more information about Actix Web, visit the [official documentation](https://actix.rs/book/).
+For more information about Actix Web, visit the [official documentation](https://actix.rs/).
 
