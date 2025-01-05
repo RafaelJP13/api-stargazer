@@ -1,6 +1,6 @@
-# Actix Web Hello World
+# STARGAZER API
 
-This project demonstrates a simple HTTP server using the [Actix Web](https://actix.rs/) framework in Rust. The server responds with a "Hello World!" message when accessed at the root URL (`/`).
+This project is about an API using the [Actix Web](https://actix.rs/) framework in Rust.
 
 ## Requirements
 
